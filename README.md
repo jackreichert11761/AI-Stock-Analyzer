@@ -33,7 +33,7 @@ This outputs:
 
 1. Click the badge below to open in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jackreichert11761/ai-stock-analyzer/blob/main/Stock_analyzer_v1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jackreichert11761/ai-stock-analyzer/blob/main/Stock_Analyzer_v1.ipynb)
 
 2. Get a free API key from [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs)
 3. Paste your API key into the notebook where indicated
